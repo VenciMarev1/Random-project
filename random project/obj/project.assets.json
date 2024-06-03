@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/vencimarev/Documents/GitHub/random project/random project/random project.csproj",
+      "projectUniqueName": "/Users/vencimarev/Documents/GitHub/Random-project/random project/random project.csproj",
       "projectName": "random project",
-      "projectPath": "/Users/vencimarev/Documents/GitHub/random project/random project/random project.csproj",
+      "projectPath": "/Users/vencimarev/Documents/GitHub/Random-project/random project/random project.csproj",
       "packagesPath": "/Users/vencimarev/.nuget/packages/",
-      "outputPath": "/Users/vencimarev/Documents/GitHub/random project/random project/obj/",
+      "outputPath": "/Users/vencimarev/Documents/GitHub/Random-project/random project/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/vencimarev/.nuget/NuGet/NuGet.Config"
