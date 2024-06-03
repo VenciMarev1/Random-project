@@ -1,0 +1,15 @@
+/Users/vencimarev/Documents/GitHub/Random-project/random project/bin/Debug/net8.0/random project
+/Users/vencimarev/Documents/GitHub/Random-project/random project/bin/Debug/net8.0/random project.deps.json
+/Users/vencimarev/Documents/GitHub/Random-project/random project/bin/Debug/net8.0/random project.runtimeconfig.json
+/Users/vencimarev/Documents/GitHub/Random-project/random project/bin/Debug/net8.0/random project.dll
+/Users/vencimarev/Documents/GitHub/Random-project/random project/bin/Debug/net8.0/random project.pdb
+/Users/vencimarev/Documents/GitHub/Random-project/random project/obj/Debug/net8.0/random project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vencimarev/Documents/GitHub/Random-project/random project/obj/Debug/net8.0/random project.AssemblyInfoInputs.cache
+/Users/vencimarev/Documents/GitHub/Random-project/random project/obj/Debug/net8.0/random project.AssemblyInfo.cs
+/Users/vencimarev/Documents/GitHub/Random-project/random project/obj/Debug/net8.0/random project.csproj.CoreCompileInputs.cache
+/Users/vencimarev/Documents/GitHub/Random-project/random project/obj/Debug/net8.0/random project.sourcelink.json
+/Users/vencimarev/Documents/GitHub/Random-project/random project/obj/Debug/net8.0/random project.dll
+/Users/vencimarev/Documents/GitHub/Random-project/random project/obj/Debug/net8.0/refint/random project.dll
+/Users/vencimarev/Documents/GitHub/Random-project/random project/obj/Debug/net8.0/random project.pdb
+/Users/vencimarev/Documents/GitHub/Random-project/random project/obj/Debug/net8.0/random project.genruntimeconfig.cache
+/Users/vencimarev/Documents/GitHub/Random-project/random project/obj/Debug/net8.0/ref/random project.dll
