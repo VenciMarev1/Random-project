@@ -8,24 +8,31 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/vencimarev/.nuget/packages/": {}
+    "C:\\Users\\venci\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/vencimarev/Documents/GitHub/Random-project/random project/random project.csproj",
+      "projectUniqueName": "C:\\Users\\venci\\Documents\\GitHub\\Random-project\\random project\\random project.csproj",
       "projectName": "random project",
-      "projectPath": "/Users/vencimarev/Documents/GitHub/Random-project/random project/random project.csproj",
-      "packagesPath": "/Users/vencimarev/.nuget/packages/",
-      "outputPath": "/Users/vencimarev/Documents/GitHub/Random-project/random project/obj/",
+      "projectPath": "C:\\Users\\venci\\Documents\\GitHub\\Random-project\\random project\\random project.csproj",
+      "packagesPath": "C:\\Users\\venci\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\venci\\Documents\\GitHub\\Random-project\\random project\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/vencimarev/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\venci\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -38,6 +45,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -59,7 +71,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
